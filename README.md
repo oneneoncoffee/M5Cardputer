@@ -9,13 +9,12 @@ List Inlcudes:
 6. #include <IRutils.h>
 7. #include "WiFi.h"
 8. #include <esp_wifi.h>
-9. #include <WebServer.h> 
-10.#include "database.h"  //database.h <-- This one is custom to our sketch
-11.#include <time.h> 
-12.#include <SD.h> 
-13.#include "USB.h"
-14.#include "USBHIDKeyboard.h"
-
+9. #include <WebServer.h>
+10. #include "database.h"  //database.h <-- This one is custom to our sketch
+11. #include <time.h>
+12. #include <SD.h>
+13. #include "USB.h"
+14. #include "USBHIDKeyboard.h"
 
 whitcat.ino - M5Cardputer Source code project. Arduino open source code public version 1  bloated and buggy but functional. 
 // What can it do ? 
